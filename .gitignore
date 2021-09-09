@@ -2,3 +2,4 @@ secret
 *.log
 *.tmp
 *.tar
+*.tz
